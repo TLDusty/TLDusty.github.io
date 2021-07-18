@@ -1,12 +1,25 @@
 .main {
+	background: linear-gradient(rgba(20, 20, 20, 0.70), rgba(20, 20, 20, 0.70)), url(./images/IMG_5802.jpeg);
+	background-size: 2000px auto;
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
-	padding: 14.7% 0; /* Center contents within the container, make background image cover*/
-	color: black;
+	padding: 15% 0; /* Center contents within the container, make background image cover*/
+	color: white;
 }
 
 .row{
     display: block;
     text-align: center;
+	font-family: Genev;
 }
+
+#hello {font-size: 25pt;
+		margin-top: 20px;
+		margin-bottom: 10px;}
+#name {font-size: 85pt;
+		margin-top: 20px;
+		margin-bottom: 10px;}
+#person-description {font: 30pt;
+		margin-top: 20px;
+		margin-bottom: 10px;}
