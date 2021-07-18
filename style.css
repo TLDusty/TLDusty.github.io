@@ -1,3 +1,11 @@
+.main {
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	padding: 14.7% 0; /* Center contents within the container, make background image cover*/
+	color: white;
+}
+
 .row{
     padding: 50px 6%;
     width: 100%;
